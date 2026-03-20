@@ -1,0 +1,27 @@
+# Análisis de Videojuegos en Steam
+
+Proyecto de ciencia de datos desarrollado en Python (Google Colab)
+sobre un dataset de más de 27,000 juegos publicados en Steam.
+
+## ¿Qué hace este proyecto?
+Explora, limpia y analiza datos del mercado de videojuegos para
+identificar los factores que determinan el éxito comercial de un juego.
+
+## Contenido
+- Etapa 1: Limpieza y preparación del dataset
+- Etapa 2: Estadísticas descriptivas, outliers y correlaciones
+- Etapa 3: Visualizaciones, storytelling y modelos predictivos
+
+## Tecnologías
+Python · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn
+
+## Modelos utilizados
+- Regresión Lineal Múltiple (R² = 0.60)
+- Random Forest Regressor (R² = 0.65)
+
+## Hallazgo principal
+El volumen de ratings (popularidad) es el factor más determinante
+en las ventas, por encima del precio o el género del juego.
+
+## Dataset
+Steam Games Dataset — 27,075 juegos · 19 variables
